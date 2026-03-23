@@ -1,6 +1,12 @@
 name: 게임 이미지 데이터 자동 갱신
 
 on:
+  push:
+    branches:
+      - claude/game-gallery-site-c6jLY
+      - main
+    paths-ignore:
+      - 'data/images.json'   # 데이터 갱신 커밋이 재귀 실행되지 않도록
   schedule:
     # 매일 오전 9시 (KST) = UTC 00:00
     - cron: '0 0 * * *'
