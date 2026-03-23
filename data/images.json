@@ -1,116 +1,28 @@
 {
-  "lastUpdated": "2026-03-23T00:00:00Z",
+  "lastUpdated": "2026-03-23T14:42:40Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
     {
-      "id": "lol-Ahri-skin-0",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
+      "id": "val-vyse-portrait",
+      "game": "valorant",
+      "gameName": "발로란트",
       "category": "character",
-      "characterName": "아리",
-      "name": "아리",
-      "date": "2011-12-14",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg"
+      "characterName": "바이스",
+      "name": "바이스",
+      "date": "2024-08-27",
+      "thumbnail": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/displayiconsmall.png",
+      "original": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/fullportrait.png"
     },
     {
-      "id": "lol-Ahri-skin-1",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
-      "category": "skin",
-      "characterName": "아리",
-      "name": "다이너스티 아리",
-      "date": "2012-01-10",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_1.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_1.jpg"
-    },
-    {
-      "id": "lol-Ahri-skin-6",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
-      "category": "skin",
-      "characterName": "아리",
-      "name": "K/DA 아리",
-      "date": "2018-11-03",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_6.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_6.jpg"
-    },
-    {
-      "id": "lol-Ahri-skin-8",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
-      "category": "skin",
-      "characterName": "아리",
-      "name": "K/DA ALL OUT 아리",
-      "date": "2020-10-29",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_8.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_8.jpg"
-    },
-    {
-      "id": "lol-Jinx-skin-0",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
+      "id": "val-clove-portrait",
+      "game": "valorant",
+      "gameName": "발로란트",
       "category": "character",
-      "characterName": "징크스",
-      "name": "징크스",
-      "date": "2013-10-10",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg"
-    },
-    {
-      "id": "lol-Jinx-skin-5",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
-      "category": "skin",
-      "characterName": "징크스",
-      "name": "아케인 징크스",
-      "date": "2021-11-06",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_5.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_5.jpg"
-    },
-    {
-      "id": "lol-Lux-skin-0",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
-      "category": "character",
-      "characterName": "럭스",
-      "name": "럭스",
-      "date": "2010-10-19",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_0.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg"
-    },
-    {
-      "id": "lol-Lux-skin-6",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
-      "category": "skin",
-      "characterName": "럭스",
-      "name": "이터널 소드 럭스",
-      "date": "2019-05-15",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_6.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_6.jpg"
-    },
-    {
-      "id": "lol-Thresh-skin-0",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
-      "category": "character",
-      "characterName": "쓰레쉬",
-      "name": "쓰레쉬",
-      "date": "2013-01-23",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_0.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg"
-    },
-    {
-      "id": "lol-Yasuo-skin-0",
-      "game": "lol",
-      "gameName": "리그 오브 레전드",
-      "category": "character",
-      "characterName": "야스오",
-      "name": "야스오",
-      "date": "2013-12-13",
-      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_0.jpg",
-      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg"
+      "characterName": "클로브",
+      "name": "클로브",
+      "date": "2024-03-26",
+      "thumbnail": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/displayiconsmall.png",
+      "original": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/fullportrait.png"
     },
     {
       "id": "lol-Yasuo-skin-4",
@@ -124,6 +36,28 @@
       "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_4.jpg"
     },
     {
+      "id": "val-neon-portrait",
+      "game": "valorant",
+      "gameName": "발로란트",
+      "category": "character",
+      "characterName": "네온",
+      "name": "네온",
+      "date": "2022-01-11",
+      "thumbnail": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/displayiconsmall.png",
+      "original": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/fullportrait.png"
+    },
+    {
+      "id": "lol-Jinx-skin-5",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "skin",
+      "characterName": "징크스",
+      "name": "아케인 징크스",
+      "date": "2021-11-06",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_5.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_5.jpg"
+    },
+    {
       "id": "lol-Seraphine-skin-0",
       "game": "lol",
       "gameName": "리그 오브 레전드",
@@ -135,15 +69,15 @@
       "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg"
     },
     {
-      "id": "val-jett-portrait",
-      "game": "valorant",
-      "gameName": "발로란트",
-      "category": "character",
-      "characterName": "제트",
-      "name": "제트",
-      "date": "2020-06-02",
-      "thumbnail": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayiconsmall.png",
-      "original": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png"
+      "id": "lol-Ahri-skin-8",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "skin",
+      "characterName": "아리",
+      "name": "K/DA ALL OUT 아리",
+      "date": "2020-10-29",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_8.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_8.jpg"
     },
     {
       "id": "val-sage-portrait",
@@ -168,37 +102,103 @@
       "original": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png"
     },
     {
-      "id": "val-neon-portrait",
+      "id": "val-jett-portrait",
       "game": "valorant",
       "gameName": "발로란트",
       "category": "character",
-      "characterName": "네온",
-      "name": "네온",
-      "date": "2022-01-11",
-      "thumbnail": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/displayiconsmall.png",
-      "original": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/fullportrait.png"
+      "characterName": "제트",
+      "name": "제트",
+      "date": "2020-06-02",
+      "thumbnail": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayiconsmall.png",
+      "original": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png"
     },
     {
-      "id": "val-clove-portrait",
-      "game": "valorant",
-      "gameName": "발로란트",
-      "category": "character",
-      "characterName": "클로브",
-      "name": "클로브",
-      "date": "2024-03-26",
-      "thumbnail": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/displayiconsmall.png",
-      "original": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/fullportrait.png"
+      "id": "lol-Lux-skin-6",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "skin",
+      "characterName": "럭스",
+      "name": "이터널 소드 럭스",
+      "date": "2019-05-15",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_6.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_6.jpg"
     },
     {
-      "id": "val-vyse-portrait",
-      "game": "valorant",
-      "gameName": "발로란트",
+      "id": "lol-Ahri-skin-6",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "skin",
+      "characterName": "아리",
+      "name": "K/DA 아리",
+      "date": "2018-11-03",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_6.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_6.jpg"
+    },
+    {
+      "id": "lol-Yasuo-skin-0",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
       "category": "character",
-      "characterName": "바이스",
-      "name": "바이스",
-      "date": "2024-08-27",
-      "thumbnail": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/displayiconsmall.png",
-      "original": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/fullportrait.png"
+      "characterName": "야스오",
+      "name": "야스오",
+      "date": "2013-12-13",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_0.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg"
+    },
+    {
+      "id": "lol-Jinx-skin-0",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "character",
+      "characterName": "징크스",
+      "name": "징크스",
+      "date": "2013-10-10",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg"
+    },
+    {
+      "id": "lol-Thresh-skin-0",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "character",
+      "characterName": "쓰레쉬",
+      "name": "쓰레쉬",
+      "date": "2013-01-23",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_0.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg"
+    },
+    {
+      "id": "lol-Ahri-skin-1",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "skin",
+      "characterName": "아리",
+      "name": "다이너스티 아리",
+      "date": "2012-01-10",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_1.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_1.jpg"
+    },
+    {
+      "id": "lol-Ahri-skin-0",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "character",
+      "characterName": "아리",
+      "name": "아리",
+      "date": "2011-12-14",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg"
+    },
+    {
+      "id": "lol-Lux-skin-0",
+      "game": "lol",
+      "gameName": "리그 오브 레전드",
+      "category": "character",
+      "characterName": "럭스",
+      "name": "럭스",
+      "date": "2010-10-19",
+      "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_0.jpg",
+      "original": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg"
     }
   ]
 }
