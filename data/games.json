@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "id": "lol",
+      "name": "리그 오브 레전드",
+      "icon": "⚔️",
+      "color": "#c89b3c"
+    },
+    {
+      "id": "valorant",
+      "name": "발로란트",
+      "icon": "🎯",
+      "color": "#ff4655"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GameGallery</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-mark">◆</span>
+        <span class="logo-text">GameGallery</span>
+      </div>
+      <nav class="tabs" id="tabs">
+        <button class="tab active" data-tab="all">전체</button>
+        <button class="tab" data-tab="character">캐릭터</button>
+        <button class="tab" data-tab="skin">스킨</button>
+        <button class="tab" data-tab="illustration">일러스트</button>
+      </nav>
+      <div class="header-meta">
+        <span class="count" id="count">0개</span>
+        <span class="updated" id="updated"></span>
+      </div>
+    </div>
+  </header>
+
+  <div class="layout">
+
+    <main class="main" id="main">
+      <div class="grid" id="grid"></div>
+      <div class="loader" id="loader">
+        <div class="spinner"></div>
+      </div>
+      <div class="empty" id="empty" hidden>이미지가 없습니다.</div>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-title">게임</div>
+      <div class="game-list" id="game-list"></div>
+    </aside>
+
+  </div>
+
+  <!-- Modal Overlay -->
+  <div class="overlay" id="overlay">
+    <div class="modal" id="modal" role="dialog" aria-modal="true">
+      <div class="modal-header">
+        <div class="modal-meta">
+          <span class="modal-game" id="modal-game"></span>
+          <span class="modal-sep">·</span>
+          <span class="modal-char" id="modal-char"></span>
+          <span class="modal-name" id="modal-name"></span>
+        </div>
+        <div class="modal-actions">
+          <button class="btn-download" id="btn-download">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            다운로드
+          </button>
+          <button class="btn-close" id="btn-close" aria-label="닫기">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <img class="modal-img" id="modal-img" src="" alt="">
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
