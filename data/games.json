@@ -1,16 +1,28 @@
 {
   "games": [
     {
-      "id": "lol",
-      "name": "리그 오브 레전드",
-      "icon": "⚔️",
-      "color": "#c89b3c"
+      "id": "genshin",
+      "name": "원신",
+      "icon": "🌸",
+      "color": "#4a90d9"
     },
     {
-      "id": "valorant",
-      "name": "발로란트",
-      "icon": "🎯",
-      "color": "#ff4655"
+      "id": "bluearchive",
+      "name": "블루 아카이브",
+      "icon": "📘",
+      "color": "#1e90ff"
+    },
+    {
+      "id": "zzz",
+      "name": "젠레스 존 제로",
+      "icon": "⚡",
+      "color": "#f5c518"
+    },
+    {
+      "id": "starrail",
+      "name": "붕괴: 스타레일",
+      "icon": "🌌",
+      "color": "#a855f7"
     }
   ]
 }
