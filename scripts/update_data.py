@@ -21,8 +21,10 @@ from pathlib import Path
 SCRIPTS_DIR = Path(__file__).parent
 sys.path.insert(0, str(SCRIPTS_DIR))
 
-from fetch_lol import fetch_lol_images
-from fetch_valorant import fetch_valorant_images
+from fetch_genshin import fetch_genshin_images
+from fetch_bluearchive import fetch_bluearchive_images
+from fetch_zzz import fetch_zzz_images
+from fetch_starrail import fetch_starrail_images
 
 DATA_DIR = SCRIPTS_DIR.parent / "data"
 IMAGES_FILE = DATA_DIR / "images.json"
@@ -58,23 +60,41 @@ def main():
 
     new_images = []
 
-    # ── LoL ─────────────────────────────────────
-    log.info("[ LoL ] 데이터 수집 중...")
+    # ── 원신 ─────────────────────────────────────
+    log.info("[ 원신 ] 데이터 수집 중...")
     try:
-        lol_imgs = fetch_lol_images(existing_ids)
-        new_images.extend(lol_imgs)
-        log.info(f"[ LoL ] 신규 {len(lol_imgs)}개")
+        gi_imgs = fetch_genshin_images(existing_ids)
+        new_images.extend(gi_imgs)
+        log.info(f"[ 원신 ] 신규 {len(gi_imgs)}개")
     except Exception as e:
-        log.error(f"[ LoL ] 실패: {e}")
+        log.error(f"[ 원신 ] 실패: {e}")
 
-    # ── Valorant ─────────────────────────────────
-    log.info("[ Valorant ] 데이터 수집 중...")
+    # ── 블루 아카이브 ──────────────────────────────
+    log.info("[ 블루 아카이브 ] 데이터 수집 중...")
     try:
-        val_imgs = fetch_valorant_images(existing_ids)
-        new_images.extend(val_imgs)
-        log.info(f"[ Valorant ] 신규 {len(val_imgs)}개")
+        ba_imgs = fetch_bluearchive_images(existing_ids)
+        new_images.extend(ba_imgs)
+        log.info(f"[ 블루 아카이브 ] 신규 {len(ba_imgs)}개")
     except Exception as e:
-        log.error(f"[ Valorant ] 실패: {e}")
+        log.error(f"[ 블루 아카이브 ] 실패: {e}")
+
+    # ── 젠레스 존 제로 ─────────────────────────────
+    log.info("[ 젠존제 ] 데이터 수집 중...")
+    try:
+        zzz_imgs = fetch_zzz_images(existing_ids)
+        new_images.extend(zzz_imgs)
+        log.info(f"[ 젠존제 ] 신규 {len(zzz_imgs)}개")
+    except Exception as e:
+        log.error(f"[ 젠존제 ] 실패: {e}")
+
+    # ── 붕괴: 스타레일 ─────────────────────────────
+    log.info("[ 스타레일 ] 데이터 수집 중...")
+    try:
+        hsr_imgs = fetch_starrail_images(existing_ids)
+        new_images.extend(hsr_imgs)
+        log.info(f"[ 스타레일 ] 신규 {len(hsr_imgs)}개")
+    except Exception as e:
+        log.error(f"[ 스타레일 ] 실패: {e}")
 
     # ── 병합 & 정렬 ──────────────────────────────
     all_images = existing.get("images", []) + new_images
