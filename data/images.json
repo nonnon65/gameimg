@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-03-24T09:22:45Z",
+  "lastUpdated": "2026-03-25T02:21:51Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "zzz-1521-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Cissia",
+      "name": "Cissia",
+      "date": "2026-03-25",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle60.png",
+      "original": "https://enka.network/ui/zzz/IconRole60.png"
+    },
+    {
+      "id": "zzz-1521-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Cissia",
+      "name": "Cissia 원형 아이콘",
+      "date": "2026-03-25",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle60.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle60.png"
+    },
+    {
+      "id": "zzz-1511-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Nangong Yu",
+      "name": "Nangong Yu",
+      "date": "2026-03-25",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle59.png",
+      "original": "https://enka.network/ui/zzz/IconRole59.png"
+    },
+    {
+      "id": "zzz-1511-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Nangong Yu",
+      "name": "Nangong Yu 원형 아이콘",
+      "date": "2026-03-25",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle59.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle59.png"
+    },
     {
       "id": "zzz-1501-icon",
       "game": "zzz",
