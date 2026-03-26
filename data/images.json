@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-03-25T02:21:51Z",
+  "lastUpdated": "2026-03-26T02:28:15Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "hsr-1504-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "Ashveil",
+      "name": "Ashveil 프리뷰",
+      "date": "2026-03-26",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1504.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1504.png"
+    },
+    {
+      "id": "hsr-1504-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "Ashveil",
+      "name": "Ashveil 포트레이트",
+      "date": "2026-03-26",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1504.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1504.png"
+    },
+    {
+      "id": "hsr-1504-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "Ashveil",
+      "name": "Ashveil",
+      "date": "2026-03-26",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1504.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1504.png"
+    },
     {
       "id": "zzz-1521-icon",
       "game": "zzz",
