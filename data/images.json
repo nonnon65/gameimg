@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-04-10T02:37:23Z",
+  "lastUpdated": "2026-04-11T02:23:33Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "gi-linnea-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Linnea",
+      "name": "Linnea 사이드",
+      "date": "2026-04-11",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Linnea/UI_AvatarIcon_Linnea.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Linnea/UI_AvatarIcon_Side_Linnea.png"
+    },
+    {
+      "id": "gi-linnea-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Linnea",
+      "name": "Linnea",
+      "date": "2026-04-11",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Linnea/UI_AvatarIcon_Linnea.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Linnea/UI_AvatarIcon_Linnea.png"
+    },
     {
       "id": "hsr-1504-preview",
       "game": "starrail",
