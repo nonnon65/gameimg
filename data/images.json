@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-04-24T02:42:36Z",
+  "lastUpdated": "2026-04-25T02:31:30Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "hsr-8010-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "{NICKNAME}",
+      "name": "{NICKNAME} 프리뷰",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8010.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8010.png"
+    },
+    {
+      "id": "hsr-8010-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "{NICKNAME}",
+      "name": "{NICKNAME} 포트레이트",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8010.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8010.png"
+    },
+    {
+      "id": "hsr-8010-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "{NICKNAME}",
+      "name": "{NICKNAME}",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8010.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8010.png"
+    },
+    {
+      "id": "hsr-8009-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "{NICKNAME}",
+      "name": "{NICKNAME} 프리뷰",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8009.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8009.png"
+    },
+    {
+      "id": "hsr-8009-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "{NICKNAME}",
+      "name": "{NICKNAME} 포트레이트",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8009.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/8009.png"
+    },
+    {
+      "id": "hsr-8009-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "{NICKNAME}",
+      "name": "{NICKNAME}",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8009.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8009.png"
+    },
+    {
+      "id": "hsr-1506-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "Silver Wolf LV.999",
+      "name": "Silver Wolf LV.999 프리뷰",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1506.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1506.png"
+    },
+    {
+      "id": "hsr-1506-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "Silver Wolf LV.999",
+      "name": "Silver Wolf LV.999 포트레이트",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1506.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1506.png"
+    },
+    {
+      "id": "hsr-1506-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "Silver Wolf LV.999",
+      "name": "Silver Wolf LV.999",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1506.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1506.png"
+    },
+    {
+      "id": "hsr-1505-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "Evanescia",
+      "name": "Evanescia 프리뷰",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1505.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1505.png"
+    },
+    {
+      "id": "hsr-1505-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "Evanescia",
+      "name": "Evanescia 포트레이트",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1505.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1505.png"
+    },
+    {
+      "id": "hsr-1505-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "Evanescia",
+      "name": "Evanescia",
+      "date": "2026-04-25",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1505.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1505.png"
+    },
     {
       "id": "gi-linnea-side",
       "game": "genshin",
