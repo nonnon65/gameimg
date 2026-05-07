@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-05-06T02:53:48Z",
+  "lastUpdated": "2026-05-07T02:54:50Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "zzz-1541-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Promeia",
+      "name": "Promeia",
+      "date": "2026-05-07",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle61.png",
+      "original": "https://enka.network/ui/zzz/IconRole61.png"
+    },
+    {
+      "id": "zzz-1541-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Promeia",
+      "name": "Promeia 원형 아이콘",
+      "date": "2026-05-07",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle61.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle61.png"
+    },
+    {
+      "id": "zzz-1531-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Starlight - Billy",
+      "name": "Starlight - Billy",
+      "date": "2026-05-07",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle62.png",
+      "original": "https://enka.network/ui/zzz/IconRole62.png"
+    },
+    {
+      "id": "zzz-1531-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Starlight - Billy",
+      "name": "Starlight - Billy 원형 아이콘",
+      "date": "2026-05-07",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle62.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle62.png"
+    },
     {
       "id": "hsr-8010-preview",
       "game": "starrail",
