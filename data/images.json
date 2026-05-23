@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-05-22T03:42:33Z",
+  "lastUpdated": "2026-05-23T03:20:47Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "gi-prune-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Prune",
+      "name": "Prune 사이드",
+      "date": "2026-05-23",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Prune/UI_AvatarIcon_Prune.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Prune/UI_AvatarIcon_Side_Prune.png"
+    },
+    {
+      "id": "gi-prune-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Prune",
+      "name": "Prune",
+      "date": "2026-05-23",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Prune/UI_AvatarIcon_Prune.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Prune/UI_AvatarIcon_Prune.png"
+    },
+    {
+      "id": "gi-nicole-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Nicole",
+      "name": "Nicole 사이드",
+      "date": "2026-05-23",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Nicole/UI_AvatarIcon_Nicole.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Nicole/UI_AvatarIcon_Side_Nicole.png"
+    },
+    {
+      "id": "gi-nicole-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Nicole",
+      "name": "Nicole",
+      "date": "2026-05-23",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Nicole/UI_AvatarIcon_Nicole.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Nicole/UI_AvatarIcon_Nicole.png"
+    },
     {
       "id": "zzz-1541-icon",
       "game": "zzz",
