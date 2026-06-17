@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-06-16T04:11:37Z",
+  "lastUpdated": "2026-06-17T04:11:18Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "gi-lohen-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Lohen",
+      "name": "Lohen 사이드",
+      "date": "2026-06-17",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Lohen/UI_AvatarIcon_Lohen.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Lohen/UI_AvatarIcon_Side_Lohen.png"
+    },
+    {
+      "id": "gi-lohen-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Lohen",
+      "name": "Lohen",
+      "date": "2026-06-17",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Lohen/UI_AvatarIcon_Lohen.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Lohen/UI_AvatarIcon_Lohen.png"
+    },
     {
       "id": "hsr-1507-preview",
       "game": "starrail",
