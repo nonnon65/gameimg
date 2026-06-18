@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-06-17T04:11:18Z",
+  "lastUpdated": "2026-06-18T04:02:07Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "zzz-1571-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Norma",
+      "name": "Norma",
+      "date": "2026-06-18",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle65.png",
+      "original": "https://enka.network/ui/zzz/IconRole65.png"
+    },
+    {
+      "id": "zzz-1571-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Norma",
+      "name": "Norma 원형 아이콘",
+      "date": "2026-06-18",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle65.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle65.png"
+    },
+    {
+      "id": "zzz-1561-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Velina",
+      "name": "Velina",
+      "date": "2026-06-18",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle64.png",
+      "original": "https://enka.network/ui/zzz/IconRole64.png"
+    },
+    {
+      "id": "zzz-1561-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Velina",
+      "name": "Velina 원형 아이콘",
+      "date": "2026-06-18",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle64.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle64.png"
+    },
+    {
+      "id": "zzz-1551-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Pyrois",
+      "name": "Pyrois",
+      "date": "2026-06-18",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle63.png",
+      "original": "https://enka.network/ui/zzz/IconRole63.png"
+    },
+    {
+      "id": "zzz-1551-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Pyrois",
+      "name": "Pyrois 원형 아이콘",
+      "date": "2026-06-18",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle63.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle63.png"
+    },
     {
       "id": "gi-lohen-side",
       "game": "genshin",
