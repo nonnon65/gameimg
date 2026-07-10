@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-07-09T03:19:50Z",
+  "lastUpdated": "2026-07-10T03:21:28Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "gi-sandrone-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Sandrone",
+      "name": "Sandrone 사이드",
+      "date": "2026-07-10",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Sandrone/UI_AvatarIcon_MarionetteNew.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Sandrone/UI_AvatarIcon_Side_MarionetteNew.png"
+    },
+    {
+      "id": "gi-sandrone-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Sandrone",
+      "name": "Sandrone",
+      "date": "2026-07-10",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Sandrone/UI_AvatarIcon_MarionetteNew.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Sandrone/UI_AvatarIcon_MarionetteNew.png"
+    },
     {
       "id": "zzz-1571-icon",
       "game": "zzz",
