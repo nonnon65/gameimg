@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-07-17T02:39:51Z",
+  "lastUpdated": "2026-07-18T02:30:36Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "hsr-1510-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "Himeko • Nova",
+      "name": "Himeko • Nova 프리뷰",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1510.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1510.png"
+    },
+    {
+      "id": "hsr-1510-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "Himeko • Nova",
+      "name": "Himeko • Nova 포트레이트",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1510.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1510.png"
+    },
+    {
+      "id": "hsr-1510-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "Himeko • Nova",
+      "name": "Himeko • Nova",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1510.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1510.png"
+    },
+    {
+      "id": "hsr-1509-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "Gilgamesh",
+      "name": "Gilgamesh 프리뷰",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1509.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1509.png"
+    },
+    {
+      "id": "hsr-1509-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "Gilgamesh",
+      "name": "Gilgamesh 포트레이트",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1509.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1509.png"
+    },
+    {
+      "id": "hsr-1509-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "Gilgamesh",
+      "name": "Gilgamesh",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1509.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1509.png"
+    },
+    {
+      "id": "hsr-1508-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "Rin Tohsaka",
+      "name": "Rin Tohsaka 프리뷰",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1508.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1508.png"
+    },
+    {
+      "id": "hsr-1508-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "Rin Tohsaka",
+      "name": "Rin Tohsaka 포트레이트",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1508.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1508.png"
+    },
+    {
+      "id": "hsr-1508-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "Rin Tohsaka",
+      "name": "Rin Tohsaka",
+      "date": "2026-07-18",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1508.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1508.png"
+    },
     {
       "id": "gi-sandrone-side",
       "game": "genshin",
