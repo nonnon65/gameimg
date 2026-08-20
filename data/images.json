@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-08-19T01:14:12Z",
+  "lastUpdated": "2026-08-20T01:13:36Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "gi-odette-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Odette",
+      "name": "Odette 사이드",
+      "date": "2026-08-20",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Odette/UI_AvatarIcon_Odette.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Odette/UI_AvatarIcon_Side_Odette.png"
+    },
+    {
+      "id": "gi-odette-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Odette",
+      "name": "Odette",
+      "date": "2026-08-20",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Odette/UI_AvatarIcon_Odette.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Odette/UI_AvatarIcon_Odette.png"
+    },
+    {
+      "id": "gi-alyosha-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Alyosha",
+      "name": "Alyosha 사이드",
+      "date": "2026-08-20",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Alyosha/UI_AvatarIcon_Alyosha.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Alyosha/UI_AvatarIcon_Side_Alyosha.png"
+    },
+    {
+      "id": "gi-alyosha-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Alyosha",
+      "name": "Alyosha",
+      "date": "2026-08-20",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Alyosha/UI_AvatarIcon_Alyosha.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Alyosha/UI_AvatarIcon_Alyosha.png"
+    },
     {
       "id": "zzz-1591-icon",
       "game": "zzz",
