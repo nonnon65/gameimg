@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-09-09T03:25:52Z",
+  "lastUpdated": "2026-09-10T03:24:15Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "zzz-1621-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Roxy",
+      "name": "Roxy",
+      "date": "2026-09-10",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle68.png",
+      "original": "https://enka.network/ui/zzz/IconRole68.png"
+    },
+    {
+      "id": "zzz-1621-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Roxy",
+      "name": "Roxy 원형 아이콘",
+      "date": "2026-09-10",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle68.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle68.png"
+    },
+    {
+      "id": "zzz-1611-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Claret",
+      "name": "Claret",
+      "date": "2026-09-10",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle1611.png",
+      "original": "https://enka.network/ui/zzz/IconRole1611.png"
+    },
+    {
+      "id": "zzz-1611-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Claret",
+      "name": "Claret 원형 아이콘",
+      "date": "2026-09-10",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle1611.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle1611.png"
+    },
     {
       "id": "hsr-1513-preview",
       "game": "starrail",
