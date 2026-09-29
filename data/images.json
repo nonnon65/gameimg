@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-09-28T04:01:56Z",
+  "lastUpdated": "2026-09-29T04:35:27Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "hsr-1503-preview",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "illustration",
+      "characterName": "Pearl",
+      "name": "Pearl 프리뷰",
+      "date": "2026-09-29",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1503.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1503.png"
+    },
+    {
+      "id": "hsr-1503-portrait",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "skin",
+      "characterName": "Pearl",
+      "name": "Pearl 포트레이트",
+      "date": "2026-09-29",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1503.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_portrait/1503.png"
+    },
+    {
+      "id": "hsr-1503-icon",
+      "game": "starrail",
+      "gameName": "붕괴: 스타레일",
+      "category": "character",
+      "characterName": "Pearl",
+      "name": "Pearl",
+      "date": "2026-09-29",
+      "thumbnail": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1503.png",
+      "original": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1503.png"
+    },
     {
       "id": "zzz-1621-icon",
       "game": "zzz",
