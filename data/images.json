@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-10-21T03:34:35Z",
+  "lastUpdated": "2026-10-22T03:34:14Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "zzz-1641-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Phoenix",
+      "name": "Phoenix",
+      "date": "2026-10-22",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle1641.png",
+      "original": "https://enka.network/ui/zzz/IconRole1641.png"
+    },
+    {
+      "id": "zzz-1641-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Phoenix",
+      "name": "Phoenix 원형 아이콘",
+      "date": "2026-10-22",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle1641.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle1641.png"
+    },
+    {
+      "id": "zzz-1631-icon",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "character",
+      "characterName": "Severian",
+      "name": "Severian",
+      "date": "2026-10-22",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle1631.png",
+      "original": "https://enka.network/ui/zzz/IconRole1631.png"
+    },
+    {
+      "id": "zzz-1631-circle",
+      "game": "zzz",
+      "gameName": "젠레스 존 제로",
+      "category": "illustration",
+      "characterName": "Severian",
+      "name": "Severian 원형 아이콘",
+      "date": "2026-10-22",
+      "thumbnail": "https://enka.network/ui/zzz/IconRoleCircle1631.png",
+      "original": "https://enka.network/ui/zzz/IconRoleCircle1631.png"
+    },
     {
       "id": "gi-vodyanitsa-side",
       "game": "genshin",
