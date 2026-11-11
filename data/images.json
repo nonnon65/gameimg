@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-11-10T06:11:57Z",
+  "lastUpdated": "2026-11-11T04:57:47Z",
   "_note": "이 파일은 scripts/update_data.py 가 자동으로 갱신합니다. 직접 수정하지 마세요.",
   "images": [
+    {
+      "id": "gi-valeriy-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Valeriy",
+      "name": "Valeriy 사이드",
+      "date": "2026-11-11",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Valeriy/UI_AvatarIcon_Valeriy.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Valeriy/UI_AvatarIcon_Side_Valeriy.png"
+    },
+    {
+      "id": "gi-valeriy-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Valeriy",
+      "name": "Valeriy",
+      "date": "2026-11-11",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Valeriy/UI_AvatarIcon_Valeriy.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Valeriy/UI_AvatarIcon_Valeriy.png"
+    },
+    {
+      "id": "gi-mitya-side",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "illustration",
+      "characterName": "Mitya",
+      "name": "Mitya 사이드",
+      "date": "2026-11-11",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Mitya/UI_AvatarIcon_Mitya.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Mitya/UI_AvatarIcon_Side_Mitya.png"
+    },
+    {
+      "id": "gi-mitya-icon",
+      "game": "genshin",
+      "gameName": "원신",
+      "category": "character",
+      "characterName": "Mitya",
+      "name": "Mitya",
+      "date": "2026-11-11",
+      "thumbnail": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Mitya/UI_AvatarIcon_Mitya.png",
+      "original": "https://raw.githubusercontent.com/frzyc/genshin-optimizer/master/libs/gi/assets/src/gen/chars/Mitya/UI_AvatarIcon_Mitya.png"
+    },
     {
       "id": "zzz-1641-icon",
       "game": "zzz",
